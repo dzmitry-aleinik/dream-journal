@@ -1,1 +1,1 @@
-# DreamDiary
+# dream-journal
